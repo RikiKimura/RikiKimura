@@ -1,11 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=RikiKimura)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/RKimura/posts.svg)](http://qiita.com/RKimura)
 
-[![](https://github-profile-trophy.vercel.app/?username=RikiKimura&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-profile-trophy.vercel.app/?username=RikiKimura&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikiKimura&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RikiKimura&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RikiKimura&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RikiKimura&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RikiKimura&theme=dracula&utcOffset=9) 
